@@ -1,0 +1,2 @@
+# DOC-WMT-2026-GDB01-V3.json-Add-verified-record-DOC-WMT-2026-GDB01-V3
+{"id":"DOC-WMT-2026-GDB01-V3","code":"WMT-2026-GDB01","v":"3.1.0-OFFICIAL","date":"2026-09-25T09:48:12Z","hash":"7e75a64b9b940e4f4d2c2084c7e6c4e12e75e182bd89ef8c812d4a0f443b74e2","player":"Germano De Benedet","gt":"De Benedet","it":1,"platform":"Wordament Mobile","rank":"World Champion","achiev":"25/25","exp":6498,"seal":"AI-775/GMDB-75"}
